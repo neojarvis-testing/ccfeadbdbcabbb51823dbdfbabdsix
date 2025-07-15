@@ -1,4 +1,1 @@
-import 
-afsa
-afsaasf
-afsaasfa
+print("JHHE")
